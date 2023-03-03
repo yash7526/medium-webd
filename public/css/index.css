@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: rgb(139, 139, 20);
+  padding: 3rem;
+}
+
+h2 {
+  margin-top: 3rem;
+}
+.articles {
+  margin: 3rem;
+  border: 1px solid gray;
+  padding: 1rem;
+
+}
+
+.button {
+
+}
+
+.title {
+  font-size: 40px;
+  padding: 0.5rem;
+}
+
+.desc {
+  opacity: 0.9;
+
+  padding: 0.5rem;
+
+
+}
+
+.delete {
+
+  background-color: red;
+
+  color: white;
+
+  padding: 0.75rem;
+}
+
+.delete:hover {
+  cursor: pointer;
+}
+
+.edit {
+  background-color: rgb(32, 85, 32);
+  color: white;
+  padding: 0.75rem;
+}
+
+.edit:hover {
+  cursor: pointer;
+}
+
+.read-more {
+  background-color: rgb(6, 6, 66);
+
+  color: white;
+
+  padding: 0.75rem;
+
+}
+
+
+
+.add {
+  margin: 2rem;
+  padding: 0.75rem;
+  background-color: rgb(4, 35, 45);
+}
+
+.add:hover {
+  cursor: pointer;
+}
